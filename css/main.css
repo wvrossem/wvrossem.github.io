@@ -1,0 +1,90 @@
+/* ==========================================================================
+   Author's custom styles
+   ==========================================================================
+*/
+
+/*
+
+Colors used in the color palette
+
+color: #E74C3C;
+color: #ECF0F1;
+
+color: #763930
+
+*/
+
+html, body {
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    background-color: #E9E0D6;
+    font-weight: 400;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Raleway', sans-serif;
+    color: #ECF0F1;
+    font-weight: 700;
+}
+
+p {
+    color: #ECF0F1;
+}
+
+dt {
+    color: #354458;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+dd {
+    margin-bottom: 10px;
+}
+
+footer p {
+    color: #354458;
+}
+
+.frontpage {
+    background-color: #354458;
+}
+
+.curriculum {
+    background-color: #29ABA4;
+}
+
+.projects {
+    background-color: #EB7260;
+}
+
+.colophon {
+    background-color: #77C5F7;
+}
+
+#profile-pic {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.fa {
+    color: #ECF0F1;
+}
+
+.contact-info {
+    font-size: 1.5em;
+}
+
+.header-title {
+}
+
+.project-img {
+    margin-bottom: 10px;
+}
+
+.colophon > small {
+    color: #ECF0F1;
+}
